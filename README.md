@@ -92,6 +92,6 @@ PORT=5000
 |--------|------------------|----------------|
 | POST   | `/api/users/` | Add a user | 
 | GET   | `/api/users/` | Get all users | 
-| GET   | `/api/users//:id` | Get a user |
-| PUT    | `/api/users//:id` | Update a user |
+| GET   | `/api/users/:id` | Get a user |
+| PUT    | `/api/users/:id` | Update a user |
 
