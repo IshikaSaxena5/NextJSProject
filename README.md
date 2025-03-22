@@ -50,7 +50,7 @@ PORT=5000
 ### **3️⃣ Running with local node server**
 
 1. **Installations**  
-   ``
+   ```
    npm install
    ```
 
@@ -65,7 +65,7 @@ PORT=5000
    cd /backend
    npm run dev
 
-### **3️⃣ Running with Docker**
+### **4️⃣ Running with Docker**
 
 1. **Build and Start Services**  
    ```sh
